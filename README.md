@@ -6,7 +6,7 @@ Product manager at a London insurtech and qualified actuary. I build Python tool
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [fpl-cli](https://github.com/rossgroomio/fpl-cli) | FPL analysis toolkit - five data sources, xG models, ILP squad optimiser, Bayesian fixture ratings. Classic and Draft. | Python, PuLP, httpx, Rich |
+| [fpl-cli](https://github.com/rossgroomio/fpl-cli) | FPL analysis toolkit - six data sources, xG models, ILP squad optimiser, Bayesian fixture ratings. Classic and Draft. | Python, PuLP, httpx, Rich |
 | ai-newsfeed | Multi-source news pipeline - collects, clusters, and synthesises via Claude into daily briefings. | Python, Claude API |
 
 ## Connect
